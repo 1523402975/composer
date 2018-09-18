@@ -4,4 +4,4 @@
 `
 composer require monolog/monolog
 `
-- 执行index.php
+- 2、执行index.php
